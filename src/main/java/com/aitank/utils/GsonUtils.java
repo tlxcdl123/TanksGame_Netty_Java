@@ -7,5 +7,6 @@ public class GsonUtils {
 
     public  void testGson(){
         Gson gson = new Gson();
+        System.out.println("111");
     }
 }
